@@ -1,0 +1,6 @@
+{
+  "name": "B2B Payment Aggregator SaaS",
+  "description": "A high-fidelity B2B Payment Aggregator SaaS prototype with dynamic smart-routing configurator, white-label merchant pay-in ledger, maker-checker disbursements flow, and DevOps webhook logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
